@@ -1,0 +1,33 @@
+#welcomeHeadingSource{
+    font-size: 2.5em;
+    font-weight: 700;
+    color: #FF9C2C;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    text-shadow: 0 0 10px #747679;
+}
+
+#welcomeHeadingSources{
+    font-size: 2.5em;
+    font-weight: 700;
+    color: #FF9C2C;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    text-shadow: 0 0 10px #747679;
+}
+
+.videobg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+    
+}
