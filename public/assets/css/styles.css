@@ -1,5 +1,5 @@
 #welcomeHeadingSource{
-    font-size: 2.5em;
+    font-size: 1em;
     font-weight: 700;
     color: #FF9C2C;
     text-align: center;
@@ -11,9 +11,9 @@
 }
 
 #welcomeHeadingSources{
-    font-size: 2.5em;
+    font-size: 2rem;
     font-weight: 700;
-    color: #FF9C2C;
+    color: #FFFF;
     text-align: center;
     margin-top: 0;
     margin-bottom: 0;
@@ -22,12 +22,3 @@
     text-shadow: 0 0 10px #747679;
 }
 
-.videobg{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    z-index: -1;
-    
-}
